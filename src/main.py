@@ -5,8 +5,8 @@ def greet(name: str) -> str:
 def farewell(name: str) -> str:
     return f"Goodbye, {name}!"
 
-def seeyouagain(name:str) ->str:
-    return f"again, {name}!"
+def goodjob(name:str) ->str:
+    return f"goodjob, {name}!"
 
 if __name__ == "__main__":
     print(greet("Git"))
