@@ -5,7 +5,7 @@ def greet(name: str) -> str:
 def farewell(name: str) -> str:
     return f"Goodbye, {name}!"
 
-<<<<<<< HEAD
+
 def seeyouagain(name:str) ->str:
     return f"again, {name}!"
 
