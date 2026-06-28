@@ -1,7 +1,7 @@
 def greet(name: str) -> str:
     return f"Hello, {name}!"
 
-
+ffed
 def farewell(name: str) -> str:
     return f"Goodbye, {name}!"
 
